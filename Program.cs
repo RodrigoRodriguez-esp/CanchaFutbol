@@ -21,7 +21,7 @@ app.UseCors();
 
 var empresa = new Empresa(
     "Golazo Arena",
-    "https://placehold.co/200x200?text=Golazo",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8g7r7HmnLEz2Ut2aLA9ropKq8p6fujJUYbYiplNmYQ&s=10",
     "Tu cancha, tu partido, tu momento.",
     "Complejo deportivo con canchas de grass sintético de última generación, iluminación LED y servicios para que solo te preocupes por jugar.",
     "Av. Giráldez 123, Huancayo, Junín",
