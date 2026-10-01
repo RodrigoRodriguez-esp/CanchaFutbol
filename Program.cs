@@ -33,16 +33,16 @@ var empresa = new Empresa(
 var canchas = new List<Cancha>
 {
     new(1, "Cancha Principal", "Fútbol 7", "Grass sintético", 14, 80m,  true,  true,
-        "https://placehold.co/600x400?text=Cancha+Principal",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx122YQ991y7FnfzRUgwH49gfmYhouCVx8txXvCCT3Kg&s=10l",
         "Nuestra cancha estrella: grass sintético profesional, graderías y marcador electrónico."),
     new(2, "Cancha Norte",     "Fútbol 5", "Grass sintético", 10, 60m,  true,  false,
-        "https://placehold.co/600x400?text=Cancha+Norte",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXkQEcLYPZQuTVfZSXQc1v7FVQAiSN010jskUiSl7fA&s=10",
         "Ideal para partidos rápidos entre amigos. Iluminación LED nocturna."),
     new(3, "Cancha Techada",   "Fútbol 5", "Loza deportiva",  10, 70m,  true,  true,
-        "https://placehold.co/600x400?text=Cancha+Techada",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiyro9MfohblYLHBC1RNuSDlKpEUQGYHHp6zznwCOb3Q&s=10",
         "Juega con lluvia o sol. Techada y con piso antideslizante."),
     new(4, "Cancha Grande",    "Fútbol 11", "Grass natural",  22, 180m, true,  false,
-        "https://placehold.co/600x400?text=Cancha+Grande",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSp8AD-Mm3YSzj4BFQ20kVmoEu9wjgRvHXvP9nKmgehA&s=10",
         "Cancha reglamentaria para campeonatos y partidos de gran formato."),
 };
 
